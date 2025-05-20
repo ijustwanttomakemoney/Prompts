@@ -10,7 +10,7 @@ parameters:
   max_tokens: 512
 tags:
   - general
-version: v0
+version: v1
 changelog:
   - date: '2025-05-20'
     note: Initial creation
