@@ -1,5 +1,5 @@
 id: PROMPT_001
-name: New Prompt
+name: ' ESG Report Summarizer'
 description: Description of the prompt
 role: system
 type: general
