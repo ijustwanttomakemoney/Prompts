@@ -1,0 +1,21 @@
+id: 9wgf85l3cvwufhykh0y0v9
+name: ESG Report Summarizer
+description: Description of the prompt
+role: system
+type: general
+model: gpt-4o-mini
+content: Your prompt text here. Be as specific as possible.
+parameters:
+  temperature: 0.7
+  max_tokens: 512
+tags:
+  - general
+version: v0
+changelog:
+  - date: '2025-05-20'
+    note: Initial creation
+example:
+  input: Example user input
+  output: Example response
+created_by: Anonymous
+last_modified: '2025-05-20T07:15:33.288Z'
