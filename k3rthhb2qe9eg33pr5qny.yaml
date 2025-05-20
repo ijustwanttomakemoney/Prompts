@@ -1,0 +1,21 @@
+id: ''
+name: Test_1
+description: Test_1
+role: system
+type: Test
+model: gpt-4o-mini
+content: Your prompt text here. Be as specific as possible.
+parameters:
+  temperature: 0.7
+  max_tokens: 512
+tags:
+  - general
+version: v0
+changelog:
+  - date: '2025-05-20'
+    note: Initial creation
+example:
+  input: Example user input
+  output: Example response
+created_by: Anonymous
+last_modified: '2025-05-20T04:20:01.162Z'
